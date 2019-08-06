@@ -2,6 +2,7 @@
 Proyecto manejo de archivos en java
 
 - Objetos
+- Excepciones
 - Manejo metodos y constructores
 - Manejo interfaces
 - Polimorfismo
