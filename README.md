@@ -1,5 +1,5 @@
 # Catalogo_Peliculas_Java
-Proyecto manejo de archivos en java
+Proyecto manejo de archivos en java.
 
 - Objetos
 - Excepciones
